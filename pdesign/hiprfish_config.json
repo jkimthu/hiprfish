@@ -1,0 +1,20 @@
+{
+    "__default__" :
+    {
+        "SCRIPTS_PATH" : "/Users/jen/hiprfish/pdesign",
+        "DATA_DIR" : "/Users/jen/hiprfish/pdesign/samples",
+        "N_WORKERS": 108,
+    },
+    "blast":
+    {
+        "16s_db" : "/Users/jen/hiprfish/pdesign/16SMicrobial/16S_ribosomal_RNA",
+    },
+    "simulations" :
+    {
+        "simulation_table" : "/Users/jen/hiprfish/pdesign/simulation_tables/simulation_table_test1.csv"
+    },
+    "plotting":
+    {
+        "theme_color" : "white"
+    }
+}

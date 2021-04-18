@@ -7,7 +7,7 @@
     },
     "blast":
     {
-        "16s_db" : "/Users/jen/hiprfish/pdesign/16SMicrobial/16S_ribosomal_RNA",
+        "16s_db" : "/Users/jen/databases/16SMicrobial/16S_ribosomal_RNA",
     },
     "simulations" :
     {

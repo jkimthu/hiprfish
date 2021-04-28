@@ -1,0 +1,1 @@
+python3 /Users/jen/hiprfish/pdesign/hiprfish_initialize_probe_design.py /Users/jen/hiprfish/pdesign/samples/test1/input/test1.fasta /Users/jen/hiprfish/pdesign/samples/test1 -db /Users/jen/databases/16SMicrobial/16S_ribosomal_RNA 
